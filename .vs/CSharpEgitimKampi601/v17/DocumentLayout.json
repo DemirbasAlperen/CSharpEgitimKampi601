@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\csharpegitimkampi601\\csharpegitimkampi601\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\csharpegitimkampi601\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\csharpegitimkampi601\\csharpegitimkampi601\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\csharpegitimkampi601\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\csharpegitimkampi601\\csharpegitimkampi601\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\csharpegitimkampi601\\csharpegitimkampi601\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3010CD-5194-41BD-8C9B-99E593DF5948}|CSharpEgitimKampi601\\CSharpEgitimKampi601.csproj|solutionrelative:csharpegitimkampi601\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\FrmCustomer.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi601\\FrmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:25:22.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\Program.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Program.cs",
+              "RelativeToolTip": "CSharpEgitimKampi601\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:23:23.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Form1.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\Form1.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\Form1.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi601\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:23:20.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\FrmEmployee.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\FrmEmployee.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\FrmEmployee.cs",
+              "RelativeToolTip": "CSharpEgitimKampi601\\FrmEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:54:53.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\FrmEmployee.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\FrmEmployee.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\FrmEmployee.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi601\\FrmEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:32:38.669Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDepartment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\FrmDepartment.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi601\\FrmDepartment.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi601\\CSharpEgitimKampi601\\FrmDepartment.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi601\\FrmDepartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:31:42.46Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
