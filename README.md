@@ -4,12 +4,12 @@ Merhabalar. Bu repomda Murat Yücedağ'ın YouTube kanalında vermiş olduğu C#
 
 
 # :sunny: Proje 24 (601) C# ile MongoDb Kullanımı 1
-Bu projede; Burada MongoDb kullanarak form uygulamaları yaptık. MongoDB, NoSQL kategorisinde yer alan, doküman tabanlı bir veritabanı yönetim sistemidir. JSON benzeri BSON (Binary JSON) formatında veri saklar ve ilişkisel veritabanlarına (SQL tabanlı sistemlere) kıyasla daha esnek bir veri modeline sahiptir. MongoDb veritabanı adresimiz için bir class(MongoDbConnection) açtık ve adresimizi burada tuttuk. Açtığımız form içinde bulunan butonların kodları yazıldı ve birkaç kullanıcı eklemesi yazpıldı. 
+Bu projede; Burada MongoDb kullanarak form uygulamaları yaptık. MongoDB, NoSQL kategorisinde yer alan, doküman tabanlı bir veritabanı yönetim sistemidir. JSON benzeri BSON (Binary JSON) formatında veri saklar ve ilişkisel veritabanlarına (SQL tabanlı sistemlere) kıyasla daha esnek bir veri modeline sahiptir. MongoDb veritabanı adresimiz için bir class(MongoDbConnection) açtık ve adresimizi burada tuttuk. Açtığımız form içinde bulunan butonlardan sadece ekleme butonu kodları yazıldı ve birkaç kullanıcı eklemesi yazpıldı. 
 
-# :sunny: Proje 25 (601) Dapper İşlemlerinin Tamamlanması
-Bu projede; 
+# :sunny: Proje 25 (601) C# ile MongoDb Kullanımı 2
+Bu projede; Bu derste yarım kalan form işlemlerini tamamladık. Öncelikle GetAll işlemini Listeleme butonu için yaptık. Sonrasında Silme, Güncelleme ve Id ye Göre Getir butonu için gerekli kodlar yazıldı ve çalıştırıldı. Aşağıya yapılan form sayfasının resmi eklenmiştir.  
 
-![FrmDapper](https://github.com/DemirbasAlperen/CSharpEgitimKampi501/blob/master/FrmDapper.png)
+![FrmMongoDb](https://github.com/DemirbasAlperen/CSharpEgitimKampi601/blob/master/FrmMongoDb.png)
 
 # :sunny: Proje 26 (601) Dapper İşlemlerinin Tamamlanması
 Bu projede;
