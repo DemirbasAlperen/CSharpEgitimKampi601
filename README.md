@@ -11,10 +11,10 @@ Bu projede; Bu derste yarım kalan form işlemlerini tamamladık. Öncelikle Get
 
 ![FrmMongoDb](https://github.com/DemirbasAlperen/CSharpEgitimKampi601/blob/master/FrmMongoDb.png)
 
-# :sunny: Proje 26 (601) Dapper İşlemlerinin Tamamlanması
-Bu projede;
+# :sunny: Proje 26 (601) C# ile PostgreSQL Kullanımı 1
+Bu projede; PostgreSql kullanımına geçtik ve özelliklerine değinildi. PostgreSQL (veya Postgres), açık kaynaklı, güçlü, nesne-ilişkisel bir veritabanı yönetim sistemidir. SQL standartlarını destekler ve büyük ölçekli, yüksek performans gerektiren uygulamalar için uygundur. MsSql de veri depolama sınırı varken PostgreSql de bu sınır yoktur ve tamamen ücretsizdir. PostgreSql de tablomuzu oluşturup, C# da FrmCustomer isimli bir form açtık ve mongoDb nin form tasarımını baz aldık. Sonrasında Ekle butonu kod sayfasını açıp EntityFramework6.Npgsql paketini paket yöneticisinden yükledik. Sonrasında tüm butonlar için gerekli kodları yazıp bu projeyi tamamladık. 
 
-# :sunny: Proje 27 (601) Dapper İşlemlerinin Tamamlanması
-Bu projede;
+# :sunny: Proje 27 (601) C# ile PostgreSQL Kullanımı 2
+Bu projede; PostgreSql e devam ettik ve ilişkili tablo üzernden bir uygulama yaptık. Bunun için FrmDepartment(departman) ve FrmEmployee(çalışan) isimli iki tane form dosyası açtık. Sonrasında PostgreSql i açıp orada bu ikisi için tablo oluşturduk. FrmEmployee için form tasarımını yaptık ve ekleme butonu için gerekli kodlar yazılarak proje çalıştırıldı. Aşağıya yapılan form sayfasının resmi eklenmiştir.
 
-![FrmDapper](https://github.com/DemirbasAlperen/CSharpEgitimKampi501/blob/master/FrmDapper.png)
+![FrmPostgreSql](https://github.com/DemirbasAlperen/CSharpEgitimKampi601/blob/master/FrmPostgreSql.png)
